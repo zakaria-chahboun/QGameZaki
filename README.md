@@ -2,7 +2,7 @@
 
 <img src='https://raw.githubusercontent.com/zakaria-chahboun/ZakiQtProjects/master/IMAGE1.png'/>
 
-This project is create for manage time in games at **Astrolabe Group Corporation**.
+This project was created for manage times in games at **Astrolabe Group Corporation**.
 
 Using **C++ & Qt5 & ♥**.
 
