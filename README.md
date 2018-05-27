@@ -8,6 +8,16 @@ Using **C++ & Qt5 & ♥**.
 
 ### Screenshots:
 
+<img src='https://raw.githubusercontent.com/zakaria-chahboun/QGameZaki/master/Screenshots/screenshot1.png' width='300px'/>
+<img src='https://raw.githubusercontent.com/zakaria-chahboun/QGameZaki/master/Screenshots/screenshot2.png' width='300px'/>
+
+Before ***10 seconds*** of the end of timer:
+
+<img src='https://raw.githubusercontent.com/zakaria-chahboun/QGameZaki/master/Screenshots/screenshot3.png' width='300px'/>
+
+You can change the color of timer circle!
+
+<img src='https://raw.githubusercontent.com/zakaria-chahboun/QGameZaki/master/Screenshots/screenshot4.png' width='300px'/>
 
 ---------------------------------------
 
