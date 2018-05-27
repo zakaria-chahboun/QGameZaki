@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Res/ICON.png</file>
+        <file>Res/TIMER.jpg</file>
+        <file>Res/ZAKI PRO - PNG.PNG</file>
+        <file>Res/SECONDS.wav</file>
+        <file>Res/SECONDS END.wav</file>
+    </qresource>
+</RCC>
