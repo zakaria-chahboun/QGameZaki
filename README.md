@@ -19,6 +19,8 @@ You can change the color of timer circle!
 
 <img src='https://raw.githubusercontent.com/zakaria-chahboun/QGameZaki/master/Screenshots/screenshot4.png' width='300px'/>
 
+
+**Download**: <a href='https://github.com/zakaria-chahboun/QGameZaki/raw/master/Install/QGameZaki.zip'>Link</a>
 ---------------------------------------
 
 Facebook <img src='https://vectors.pro/wp-content/uploads/2017/09/facebook-f-round-icon-vector-logo-300x300.png' width='20px'/>:
